@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me : laurent.bernabe@gmail.com
 
-I'm a computer science hobbyist, writing some projects in Rust / React Native.
+I'm a computer science hobbyist, writing some projects in Rust / Flutter.
